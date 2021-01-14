@@ -1,0 +1,18 @@
+.Title{
+    font-family: sans-serif;
+    color: black;
+    font-size: xx-large;
+}
+html{
+    background-image: linear-gradient(LightGrey 40%, Grey 50%);
+}
+.Link{
+    font-family: sans-serif;
+    color: lightgrey;
+    font-size: xx-large;
+}
+.Link2{
+    font-family: sans-serif;
+    color: grey;
+    font-size: xx-large;
+}
